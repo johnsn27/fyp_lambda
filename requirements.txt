@@ -1,4 +1,5 @@
 argcomplete==1.12.2
+autopep8==1.5.5
 boto3==1.17.18
 botocore==1.20.18
 certifi==2020.12.5
@@ -24,6 +25,7 @@ pandas==1.2.2
 Pillow==8.1.0
 pip-tools==5.5.0
 placebo==0.9.0
+pycodestyle==2.6.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 python-slugify==4.0.1
